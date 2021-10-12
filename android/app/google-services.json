@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "328746114880",
+    "project_id": "partyplanner-5a9a5",
+    "storage_bucket": "partyplanner-5a9a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328746114880:android:8fec93ddd6c072407fe4a5",
+        "android_client_info": {
+          "package_name": "com.giloeng.partyPlanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328746114880-4gsdq2peasar8i29j3ej6nhj0k0dgefc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9gy4ELAaHH1cmVsvIOrpOElfcFvnCp0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328746114880-4gsdq2peasar8i29j3ej6nhj0k0dgefc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328746114880-3as0une3f15gdueeh9if6d0720q65fq3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.giloeng.partyPlanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
